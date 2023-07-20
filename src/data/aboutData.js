@@ -1,0 +1,6 @@
+export const aboutData = {
+    title: "About Me",
+    // description1: "My name is KAWSAR. I'm a web designer and developer based in Dhaka, Bangladesh.",
+    description2: "Hi there! I'm Kawsar, a professional and passionate programmer. I'm a quick learner with a self-learning attitude, and I love to learn and explore new technologies. I'm excited to see what the future holds for me in the world of programming. I'm confident that my skills and passion will allow me to make a significant impact. My current stack includes React, NextJs, Redux, SCSS, Bootstrap, Material UI, Angular, Angular Material, NgRx, Nodejs, Express js, MongoDB, PostgreSQL etc. My core skill is based on JavaScript, and I love to do most of the things using the JavaScript.",
+    // description2: "I am a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. Love almost all the stacks of Software Engineering. My current stack includes Nodejs, Nestjs, React, NextJs, Redux, Bootstrap, Ant Design, Material UI, MongoDB, Mysql, PostgreSQL, Firebase, Cloudinary, etc.",
+}
