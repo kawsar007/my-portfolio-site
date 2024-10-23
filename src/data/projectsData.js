@@ -1,11 +1,30 @@
-import landingPage from "../assets/svg/projects/landingPage.jpg";
-import superBike from "../assets/svg/projects/super-bike.jpg";
+import craftedmeals from "../assets/svg/projects/crafted-meals.JPG";
 import foodOrder from "../assets/svg/projects/food-order.JPG";
 import gym from "../assets/svg/projects/gym.JPG";
-import craftedmeals from "../assets/svg/projects/crafted-meals.JPG";
+import landingPage from "../assets/svg/projects/landingPage.jpg";
+import medser from "../assets/svg/projects/medser.png";
 import realestate from "../assets/svg/projects/real-estate.JPG";
+import superBike from "../assets/svg/projects/super-bike.jpg";
 
 export const projectsData = [
+  {
+    id: 9,
+    projectName: "Medical Service",
+    projectDesc:
+      "Crafted Meals is an AI-powered platform that helps you achieve your health goals and enhance your online presence.",
+    tags: [
+      "Next Js",
+      "Typescript",
+      "Tailwind CSS",
+      "Agora.io",
+      "Nest Js",
+      "Prisma",
+    ],
+    // code: 'https://github.com/kawsar007/Search-Github-User',
+    demo: "https://scribe.medser.us/scribe",
+    image: medser,
+    isPrivate: true,
+  },
   {
     id: 1,
     projectName: "Crafted Meals",
