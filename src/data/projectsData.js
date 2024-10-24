@@ -11,7 +11,7 @@ export const projectsData = [
     id: 9,
     projectName: "Medical Service",
     projectDesc:
-      "Crafted Meals is an AI-powered platform that helps you achieve your health goals and enhance your online presence.",
+      "The Medical Service app is a live streaming application for physicians, scribes, and patients. Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time with configuration.Whether you're an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications. a larger team, Next.js can help you build interactive, dynamic, and fast React applications.",
     tags: [
       "Next Js",
       "Typescript",

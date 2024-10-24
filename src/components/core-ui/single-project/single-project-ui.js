@@ -66,10 +66,10 @@ function SingleProjectUI({ id, name, desc, tags, code, demo, image, theme, class
                     </div>
                 </div>
                 <p
-                    className='project--desc'
+                    className='project--desc custom-scrollbar'
                     style={{
                         background: theme.secondary,
-                        color: theme.tertiary,
+                        color: theme.tertiary,                     
                     }}
                 >
                     {desc}
