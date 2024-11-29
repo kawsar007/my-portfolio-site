@@ -1,3 +1,4 @@
+import blog from "../assets/svg/projects/blog.png";
 import craftedmeals from "../assets/svg/projects/crafted-meals.JPG";
 import foodOrder from "../assets/svg/projects/food-order.JPG";
 import gym from "../assets/svg/projects/gym.JPG";
@@ -25,25 +26,7 @@ export const projectsData = [
     image: medser,
     isPrivate: true,
   },
-  {
-    id: 1,
-    projectName: "Crafted Meals",
-    projectDesc:
-      "Crafted Meals is an AI-powered platform that helps you achieve your health goals and enhance your online presence.",
-    tags: [
-      "React",
-      "Open-ai",
-      "SAAS",
-      "React-Bootstrap",
-      "Node",
-      "Express",
-      "MongoDB",
-    ],
-    // code: 'https://github.com/kawsar007/Search-Github-User',
-    demo: "https://app.craftedmeals.menu/",
-    image: craftedmeals,
-    isPrivate: true,
-  },
+
   {
     id: 2,
     projectName: "Real Estate",
@@ -61,6 +44,43 @@ export const projectsData = [
     // code: 'https://github.com/kawsar007/Search-Github-User',
     demo: "https://realtor.buildyourai.consulting/",
     image: realestate,
+    isPrivate: true,
+  },
+  {
+    id: 10,
+    projectName: "Kawsar Blog",
+    projectDesc:
+      "This is my blog application where I share tech-related blog posts and manage an admin section. The app features a clean, user-friendly interface for an optimal experience.",
+    tags: [
+      "React",
+      "Redux Toolkit",
+      "Firebase",
+      "Tailwind",
+      "Node",
+      "Express",
+      "MongoDB",
+    ],
+    code: 'https://github.com/kawsar007/mern-blog-app',
+    demo: "https://kawsar-blog.onrender.com/",
+    image: blog,
+    isPrivate: false,
+  }, {
+    id: 1,
+    projectName: "Crafted Meals",
+    projectDesc:
+      "Crafted Meals is an AI-powered platform that helps you achieve your health goals and enhance your online presence.",
+    tags: [
+      "React",
+      "Open-ai",
+      "SAAS",
+      "React-Bootstrap",
+      "Node",
+      "Express",
+      "MongoDB",
+    ],
+    // code: 'https://github.com/kawsar007/Search-Github-User',
+    demo: "https://app.craftedmeals.menu/",
+    image: craftedmeals,
     isPrivate: true,
   },
   {
